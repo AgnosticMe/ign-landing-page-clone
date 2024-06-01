@@ -1,0 +1,8 @@
+.main-content {
+    background-color: rgb(230, 230, 250);
+    transition: background-color 0.3s; /* Optional: smooth transition effect */
+}
+
+.main-content:hover {
+    background-color: rgb(200, 200, 220); /* New background color on hover */
+}
